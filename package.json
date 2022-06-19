@@ -1,0 +1,15 @@
+{
+  "name": "sitewebgavin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "input:build": "npx tailwind build -i ./SiteWebGavin/wwwroot/css/input.css -o ./SiteWebGavin/wwwroot/css/output.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.1.3"
+  }
+}
